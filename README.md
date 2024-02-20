@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dardenne8u&label=Profile%20views&color=0e75b6&style=flat" alt="dardenne8u" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dardenne8u" alt="dardenne8u" /></a> </p>
 
 - 📫 How to reach me **gregory.dardenne@epitech.eu**
 
